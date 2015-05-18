@@ -18,4 +18,5 @@ Scaramuzza -  UZH
 
 Daniel Cremers - TUM
 
+DUO 3D, VI sensor, Carnegie robotics
 
