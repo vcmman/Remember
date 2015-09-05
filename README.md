@@ -2,9 +2,9 @@
 
 Nicholas Roy - MIT, planning, state estimation
 
-shaojie shen - Upenn, grasp lab
+Shaojie Shen - Upenn, grasp lab
 
-Sebastian Scherer, ji zhang - CMU, robotics, sensible machines
+Sebastian Scherer, Ji Zhang - CMU, robotics, sensible machines
 
 Borg - GTSam, Georgia Tech
 
